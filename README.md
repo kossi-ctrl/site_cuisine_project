@@ -1,20 +1,21 @@
-# site_cuisine_projectSite Web de cuisine
+# site_cuisine_project
 C'est la création d'un site web de recettes Togo-Mayotte Un site web de recettes permettant d'afficher et de gérer des recettes de cuisine.
 
 # Installation
-Cloner le dépôt : git clone https://github.com/kossi-ctrl/site_cuisine.git
+Cloner le dépôt : git clone https://github.com/kossi-ctrl/site_cuisine_project.git
 Ouvrir le projet dans Visual Studio Code
 Ouvrir index.html dans le navigateur
 
 # Utilisation
 Cliquer sur "Afficher les recettes" pour voir toutes les recettes
 Cliquer sur "Voir nos recettes" pour aller sur la page complète
-Technologies
+
+# Technologies
 -HTML
 
 -CSS
 
--JavaScript
+
 
 # Logiciel
 Phoenix Code
