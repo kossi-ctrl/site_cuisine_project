@@ -1,0 +1,72 @@
+header {
+    text-align: center;
+    padding: 39px, 12px;
+    background: darkred;
+    
+}
+h1 {
+    color: #e74209;
+    text-decoration: none;
+}
+h2 {
+   color: darkred;
+    text-decoration: none; 
+}
+h3 {
+    color: darkred;
+    text-decoration: none;
+}
+nav a {
+    color: #fff9e0;
+    text-decoration: none;
+    font-weight: bold;}
+
+body {
+    background : #fff9e0;
+    overflow: auto;
+    display: block;
+    justify-content: center;
+    align-items:normal;
+    font-size: 0.87rem;  
+    text-align: center;
+    padding: -4px
+}
+p{
+    color :darkred;
+    font-family: "Quicksand", sans-serif;  
+    text-align: justify
+}
+
+footer{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9pt;
+    font-style: italic;
+    text-align-last: center;
+    color: #3e3e3e
+    
+}
+a {
+    color :#3e3e3e;
+    text-decoration:none;
+}
+a:hover {
+   text-decoration: underline;
+}
+
+
+.mayotte_flag{
+  width: 27px;
+    height: auto;
+}
+
+
+.recette ul {
+    text-align: left;
+    color: darkred;
+    font-family: "Quicksand", sans-serif;  
+}
+.gauche{
+    text-align: left;
+}
+

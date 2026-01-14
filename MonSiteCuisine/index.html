@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <title>Voyage Culinaire : Mayotte & Togo</title>
+        <link rel="stylesheet" href="index.css" />
+       <style>
+body {
+font-family: Arial, sans-serif;
+padding: 39px;
+height: 2000px;
+}
+
+#scrollTopBtn {
+position: fixed;
+bottom: 19px;
+right: 6px;
+padding: 12px -4px;
+font-size: 18px;
+border: none;
+border-radius: 8px;
+background-color: #333;
+color: #fff;
+cursor: pointer;
+display: none;
+transition: background 0.3s;
+}
+
+
+#scrollTopBtn:hover {
+background-color: #555;
+}
+</style>
+    </head>
+     
+    <body>
+        <h1>Scroll Down</h1>
+<p>Scroll the page to see the scroll-to-top button appear.</p>
+
+<button id="scrollTopBtn">↑ Top</button>
+
+
+
+
+<script>
+const scrollBtn = document.getElementById("scrollTopBtn");
+
+window.addEventListener("scroll", () => {
+if (window.scrollY > 200) {
+scrollBtn.style.display = "block";
+} else {
+scrollBtn.style.display = "none";
+}
+});
+scrollBtn.addEventListener("click", () => {
+window.scrollTo({
+top: 0,
+behavior: "smooth"
+});
+});
+</script>
+        <header class="topbar">
+            <div class="logo">
+                <img src="images/logo.png" alt="Logo" width="170" />
+                <h1>Mayotte x Togo</h1>
+            </div>
+            
+           <nav>
+               <ul class="menu">
+                   <li><a href="index.html">Accueil</a></li>
+                   <li><a href="recettes.html">Recettes</a></li>
+                   <li><a href="contact.html">Contact</a></li>
+               </ul>
+            </nav>
+        </header>
+        <main>
+            <div class="hero">
+                <h2>Bienvenue dans un univers où les saveurs mahoraises et togolaises se rencontrent !</h2>
+                <p>
+                    Découvrez des recettes authentiques, délicieuses et faciles à préparer, inspirées des traditions de
+                    l'Océan Indien et de l'Afrique de l'Ouest.
+                </p>
+            </div>
+            <h2></h2>
+            <div class="recettes-accueil">
+                <article class="carte-recette">
+                <img src="images/Riz au coco.jpg" alt="recette1" width="178" height="147" />
+                   
+            </article>
+               
+                <article class="carte-recette">
+                <img src="images/gaou.jpg" alt="recette2" width="178" height="147"/>
+                <a></a>
+                </article>    
+            </div>
+            <a href="recettes.html" class="btn-plus">Voir nos recettes →</a>
+        </main>
+        
+        
+        
+        
+        <footer>
+            <figure>
+                <img src="images/Togo_1.jpeg" class="Togo_1" width="28" height="25" />
+                © 2025 - Cuisine Mahoraise et Togolaise
+                <a href="contact.html"  class="footer-contact">contact</a>
+                <img src="images/Mayotte_2.jpg" class="Mayotte_2" width="27" height="25" />
+            </figure>
+        </footer>
+    </body>
+</html>

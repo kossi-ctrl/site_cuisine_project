@@ -1,0 +1,73 @@
+header {
+    text-align: center;
+    padding: 39px, 12px;
+    background: darkred;
+  
+}
+h1 {
+    color: #e74209;
+    text-decoration: none;
+}
+nav a {
+    color: #fff9e0;
+    text-decoration: none;
+    font-weight: bold;}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+nav a {
+    color: #fff9e0;
+    text-decoration: none;
+    font-weight: bold;
+}
+body {
+    background : #fff9e0;
+    overflow: auto;
+    display: block;
+    justify-content: center;
+    align-items:normal;
+    font-size: 0.87rem;  
+    text-align: center;
+    padding: -4px
+}
+
+footer {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9pt;
+    font-style: italic;
+    text-align-last: center;
+    color: #3e3e3e
+    
+}
+.carte-recette {
+    background:white;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+    text-align:center;
+}
+.carte-recette img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+.carte-recette img:hover {
+    transform: scale(1.05);
+}
+.btn {
+    display:inline-block;
+    background:#b22222;
+    color:white;
+    padding:10px 15px;
+    border-radius:5px;
+    text-decoration:none;
+}
