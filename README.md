@@ -9,12 +9,16 @@ Cloner le dépôt : git clone https://github.com/kossi-ctrl/site_cuisine_project
 Ouvrir le projet dans Visual Studio Code
 
 Ouvrir index.html dans le navigateur
+
 ---
 # Utilisation
+
 Cliquer sur "Afficher les recettes" pour voir toutes les recettes
 Cliquer sur "Voir nos recettes" pour aller sur la page complète
+
 ---
 # Technologies
+
 -HTML
 
 -CSS
@@ -25,6 +29,7 @@ Cliquer sur "Voir nos recettes" pour aller sur la page complète
 Phoenix Code
 
 Visual Code
+
 ---
 # Auteurs
 -DOKANOU k. Daniel
