@@ -3,6 +3,12 @@
 C'est la création d'un site web de recettes Togo-Mayotte Un site web de recettes permettant d'afficher et de gérer des recettes de cuisine.
 
 ---
+
+🌐 Mon portfolio en ligne :  
+👉 https://kossi-ctrl.github.io/TPJavaScript_site_cuisine/
+
+---
+
 # Installation
 Cloner le dépôt : git clone https://github.com/kossi-ctrl/site_cuisine_project.git
 
