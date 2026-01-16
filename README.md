@@ -7,7 +7,9 @@ Il permet d’afficher et de gérer des recettes de cuisine à l’aide d’HTML
 
 ## 🌐 Site en ligne  
 
-👉 **[Accéder au site de cuisine](https://kossi-ctrl.github.io/site_cuisine_project/)**
+👉 🌐 Site en ligne :  
+👉 [Accéder au site de cuisine](https://kossi-ctrl.github.io/site_cuisine_project/)
+
 
 ---
 
