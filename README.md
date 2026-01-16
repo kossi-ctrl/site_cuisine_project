@@ -1,39 +1,45 @@
-# site_cuisine_project
+# 🍽️ site_cuisine_project
 
-C'est la création d'un site web de recettes Togo-Mayotte Un site web de recettes permettant d'afficher et de gérer des recettes de cuisine.
+Ce projet consiste en la création d’un site web de recettes inspirées du **Togo et de Mayotte**.  
+Il permet d’afficher et de gérer des recettes de cuisine à l’aide d’HTML, CSS et JavaScript.
+
+---
+
+## 🌐 Site en ligne  
+
+👉 **[Accéder au site de cuisine](https://kossi-ctrl.github.io/site_cuisine_project/)**
 
 ---
 
-🌐 Mon portfolio en ligne :  
-👉 https://kossi-ctrl.github.io/site_cuisine_project/
+## 🛠️ Technologies
 
-
-
----
-# Technologies
-
--HTML
-
--CSS
-
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
-# Logiciel
-Phoenix Code
 
-Visual Code
+## 💻 Logiciels
 
----
-# Auteurs
--DOKANOU k. Daniel
-
--HALIM Thamra
-
--ZANGBE kossi
+- Phoenix Code  
+- Visual Studio Code  
 
 ---
-# Licence
-[Centre d'Études Supérieures de la Renaissance, Université de Tours](https://www.cesr.tours.fr),© Novembre 2025 par Daniel, Thamra & kossi est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
+## 👥 Auteurs
 
+- **DOKANOU K. Daniel**  
+- **HALIM Thamra**  
+- **ZANGBE Kossi**
 
+---
+
+## 📜 Licence  
+
+Projet réalisé dans le cadre du  
+👉 [Centre d’Études Supérieures de la Renaissance — Université de Tours](https://www.cesr.tours.fr)
+
+© Novembre 2025 — Daniel, Thamra & Kossi  
+
+Sous licence :  
+👉 **[Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)**
