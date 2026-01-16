@@ -12,6 +12,15 @@ https://kossi-ctrl.github.io/site_cuisine_project/
 
 ---
 
+## Description
+
+**TPJavaScript Site Cuisine** est un site web interactif présentant des recettes de cuisine avec une navigation simple et fluide.  
+Le site est développé en **HTML, CSS et JavaScript**, permettant aux utilisateurs de consulter facilement différentes recettes avec leurs ingrédients et étapes de préparation.
+
+Le site est hébergé sur **GitHub Pages** :  
+[Voir le site en ligne](https://kossi-ctrl.github.io/TPJavaScript_site_cuisine/)
+
+
 ## 🛠️ Technologies
 
 - HTML  
